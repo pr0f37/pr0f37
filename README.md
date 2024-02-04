@@ -1,9 +1,11 @@
 # Stay a while and listen
+
 I am a Warsaw University of Technology graduate with masters in computer science.
 
 Previously focusing on image recognition in C++, currently crafting skills in Python, App Containerization, CI/CD & micro service architecture.
 
 ## Technologies
+
 ![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 ![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=fff&style=for-the-badge)
@@ -27,9 +29,15 @@ Previously focusing on image recognition in C++, currently crafting skills in Py
 ![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff&style=for-the-badge)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=%23FFFFFF)
+![ALPINE.JS](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=%23FFFFFF)
+
 ## Contact me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nowikadam/?locale=en_US)
+
 ## Stats
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pr0f37&layout=compact&theme=city_lights&hide_border=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pr0f37&count_private=true&show_icons=true&theme=city_lights&hide_border=true&layout=default)
