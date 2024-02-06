@@ -1,4 +1,4 @@
-# Adam Nowik
+# Curriculum Vitae
 
 I am a Warsaw University of Technology graduate with masters in computer science. Software engineer with passion for Python and high consulting skills. SCRUM certified. High analytical know-how. High interpersonal and conflict solving skills. Constructive problem solver. Consequent, accountable with high sense of ownership. Participated in international, world-wide projects. Team player.
 
