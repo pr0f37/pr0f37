@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-I am a Warsaw University of Technology graduate with masters in computer science. Software engineer with passion for Python and high consulting skills. SCRUM certified. High analytical know-how. High interpersonal and conflict solving skills. Constructive problem solver. Consequent, accountable with high sense of ownership. Participated in international, world-wide projects. Team player.
+I am a Warsaw University of Technology graduate with masters in computer science. Software engineer with passion for Python and high consulting skills. SCRUM certified. High analytical know-how. High interpersonal and conflict resolution skills. Constructive problem solver. Consistent, accountable with high sense of ownership. Participated in international, world-wide projects. Team player.
 
 ## Education
 
@@ -19,11 +19,11 @@ The Faculty of Electronics and Information Technology (EITI) with a major in Com
 *Thesis: Content Based Image Retrieval - Particular Algorithms Comparison Analysis*
 
 ## Additional skills, courses
-- English - advanced
+- English - B2 level
 - Certificate - Scrum for teams. Workshop by Agile Hats
 - Certificate - Requirements engineering. Business analysis as a key factor in effective project management. IPMA Poland
 
-Providing technical representation for a scrum team as a tech lead. Creating and maintaining CI/CD pipelines. Maintaining deployments using Kubernetes and Helm. Creating Python packages to support ecosystem of micro servicesWorking with variety of databases. Working within SCRUM teams, pair programming and code reviews. Quick acquisition and utilization of new languages, frameworks, techniques.
+Providing technical representation for a scrum team as a tech lead. Creating and maintaining CI/CD pipelines. Maintaining deployments using Kubernetes and Helm. Creating Python packages to support ecosystem of micro services. Working with variety of databases. Working within SCRUM teams, pair programming and code reviews. Quick acquisition and utilization of new languages, frameworks, techniques.
 
 ## Stack
 - Microservices (Docker, Kubernetes, Helm, Jenkins, OpenApi)
