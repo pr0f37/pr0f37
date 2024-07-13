@@ -2,8 +2,40 @@
 
 ## Professional
 
+### RDS GEN AI Portal
+*03.2024 - present*
+
+Stack:
+- Python
+- FastApi
+- OpenAI API
+- Python Langchain Framework
+- Microsoft Azure
+- React JS
+
+The online platform enables users to submit natural language requests to personalized Retrieval Augmented Generation (RAG) Large Language Model Agents. I am responsible for discovery, design and development for different backend microservices (RAG Agents) that are communicating with LLMs using Langchain Framework. 
+Microservices support different use cases such as:
+- answering questions basing on the vectorized knowledge base,
+- answering questions based on the analysis of the documents uploaded by the user
+- answering questions and providing source documents using different tools to access various internal systems/platforms
+
+### Trial Strategy Platform
+*03.2023 - 03.2024*
+
+Stack:
+- Python
+- Connexion
+- Flask
+- REST/JSON
+- AWS Lambda, SQS, SNS, Redshift
+- Snowflake
+- Airflow
+
+The flexible platform comprises RESTful microservices deployed using AWS Lambda that share a common structure but have single responsibility. Various communication and orchestration mechanisms allow combining individual services into complex data pipelines. AWS SQS and SNS pub/sub and asynchronous processing. The straightforward application structure, along with published standards and developer tools, facilitates rapid system development and growth. Contract-first API specifications and use-case-driven documentation, supported by testing automation. Responsible for designing and implementing parts of the architecture and infrastructure.
+
+
 ### Strategy Workbench 
-*11.2019 - present*
+*11.2019 - 01.2024*
 
 Stack:
 - Python
